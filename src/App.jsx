@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import HomePage from "./pages/HomePage";
 import ChiSiamo from './pages/ChiSiamo';
 import PostList from './pages/PostList';
-import DefaulLayout from './assets/DefaultLayout';
+import DefaulLayout from './Componens/DefaultLayout';
 
 
 function App() {
