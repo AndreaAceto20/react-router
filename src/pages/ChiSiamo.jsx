@@ -1,5 +1,5 @@
 export default function ChiSiamo() {
     return (
-        <p> Info Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cum vel quos ut voluptates, doloribus dolore aut voluptatibus laudantium. Perferendis natus eum impedit id, voluptates in soluta nihil harum dolorum esse.</p>
+        <p>Pagina di informazioni</p>
     )
 }
